@@ -17,7 +17,7 @@ To run the code, make sure to copy the data file in the same directory with the 
 To cite, please use the following format
 
 ```
-@article{CacheTest,
+@article{GEquality,
   author =        {S. Tang, J. Yuan},
   publisher =     {INFORMS Journal on Computing},
   title =         {Group Equality in Adaptive Submodular Maximization},
